@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ProgrammingBooks</string>
+    <string name="book_suggestion">Suggested for you</string>
+    <string name="book_search">Search Books</string>
 </resources>
